@@ -1,4 +1,4 @@
-"trade_id","date_trade","date_exit","country","ticker","price"
+"trade_id","date_trade","date_exit","country","ticker","price_entry"
 "G2020070301001",2020-07-03,"2020-08-03","Hong Kong","6178:HK",7.8
 "G2020070301002",2020-07-03,"2020-08-03","Hong Kong","819:HK",15.04
 "G2020070301003",2020-07-03,"2020-08-05","Japan","6937:JP",1288
