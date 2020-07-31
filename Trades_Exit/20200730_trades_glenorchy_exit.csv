@@ -1,0 +1,2 @@
+"trade_id","date_trade","date_exit","country","ticker","price_entry","status","price_exit","price_live","rtn_ccy","last_modification"
+"G2020063001001",2020-06-30,2020-07-30,"Hong Kong","819:HK",13.24,"closed",18.139999,NA,0.370090558912387,"2020-07-31 15:15:29 HKT"
