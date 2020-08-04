@@ -1,0 +1,4 @@
+"trade_id","date_trade","date_exit","country","ticker","price_entry","status","price_exit","price_live","rtn_ccy","last_modification"
+"G2020070101001",2020-07-01,2020-08-03,"Japan","6937:JP",1357,"closed",1042,NA,-0.232129697862933,2020-08-04
+"G2020070301001",2020-07-03,2020-08-03,"Hong Kong","6178:HK",7.8,"closed",8.64,NA,0.107692307692308,2020-08-04
+"G2020070301002",2020-07-03,2020-08-03,"Hong Kong","819:HK",15.04,"closed",18.02,NA,0.19813829787234,2020-08-04
