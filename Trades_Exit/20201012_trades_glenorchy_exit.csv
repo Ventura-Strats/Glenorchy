@@ -1,0 +1,2 @@
+"trade_id","date_trade","date_exit","country","ticker","price_entry","status","price_exit","price_live","rtn_ccy","last_modification"
+"G2020090901001",2020-09-09,2020-10-12,"Japan","3628:JP",4420,"closed",3435,NA,-0.222850678733032,2020-10-13
