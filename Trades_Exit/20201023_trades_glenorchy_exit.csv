@@ -1,0 +1,2 @@
+"trade_id","date_trade","date_exit","country","ticker","price_entry","status","price_exit","price_live","rtn_ccy","last_modification"
+"G2020092403001",2020-09-24,2020-10-23,"United States","CIEN:US",38.73,"closed",41.240002,NA,0.0648076942938292,2020-10-24
