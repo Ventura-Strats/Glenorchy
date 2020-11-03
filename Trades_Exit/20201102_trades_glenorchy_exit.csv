@@ -1,0 +1,7 @@
+"trade_id","date_trade","date_exit","country","ticker","price_entry","status","price_exit","price_live","rtn_ccy","last_modification"
+"G2020100201001",2020-10-02,2020-11-02,"Japan","1811:JP",4765,"closed",NA,NA,NA,2020-11-03
+"G2020100201002",2020-10-02,2020-11-02,"Japan","2373:JP",2662,"closed",NA,NA,NA,2020-11-03
+"G2020100201003",2020-10-02,2020-11-02,"Japan","4421:JP",2446,"closed",NA,NA,NA,2020-11-03
+"G2020100201004",2020-10-02,2020-11-02,"Japan","7228:JP",1925,"closed",NA,NA,NA,2020-11-03
+"G2020100202001",2020-10-02,2020-11-02,"Norway","AZTO:NO",32.2,"closed",NA,NA,NA,2020-11-03
+"G2020100203001",2020-10-02,2020-11-02,"United States","CIEN:US",40.3,"closed",39.150002,NA,-0.0285359305210917,2020-11-03
