@@ -1,0 +1,2 @@
+"trade_id","date_trade","date_exit","country","ticker","price_entry","status","price_exit","price_live","rtn_ccy","last_modification"
+"G2020100502001",2020-10-05,2020-11-03,"Norway","AZTO:NO",32.2,"closed",NA,NA,NA,2020-11-04
