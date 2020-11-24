@@ -1,0 +1,2 @@
+"trade_id","date_trade","date_exit","country","ticker","price_entry","status","price_exit","price_live","rtn_ccy","last_modification"
+"G2020102303001",2020-10-23,2020-11-23,"United States","DAR:US",45.16,"closed",47.279999,NA,0.0469441762621789,2020-11-24
