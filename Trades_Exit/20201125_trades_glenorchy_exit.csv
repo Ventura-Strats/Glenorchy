@@ -1,0 +1,4 @@
+"trade_id","date_trade","date_exit","country","ticker","price_entry","status","price_exit","price_live","rtn_ccy","last_modification"
+"G2020102301001",2020-10-23,2020-11-25,"Japan","3796:JP",998,"closed",905,NA,-0.093186372745491,2020-11-26
+"G2020102301002",2020-10-23,2020-11-25,"Japan","5009:JP",901,"closed",869,NA,-0.0355160932297447,2020-11-26
+"G2020102702001",2020-10-27,2020-11-25,"Netherlands","FLOW:NA",27.36,"closed",26.200001,NA,-0.0423976242690058,2020-11-26
