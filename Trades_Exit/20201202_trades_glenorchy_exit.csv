@@ -1,0 +1,3 @@
+"trade_id","date_trade","date_exit","country","ticker","price_entry","status","price_exit","price_live","rtn_ccy","last_modification"
+"G2020103001001",2020-10-30,2020-12-02,"Japan","3371:JP",4570,"closed",3090,NA,-0.323851203501094,2020-12-03
+"G2020110301001",2020-11-03,2020-12-02,"Hong Kong","1108:HK",4.45,"closed",4.84,NA,0.0876404494382022,2020-12-03
