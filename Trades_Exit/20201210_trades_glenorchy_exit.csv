@@ -1,0 +1,4 @@
+"trade_id","date_trade","date_exit","country","ticker","price_entry","status","price_exit","price_live","rtn_ccy","last_modification"
+"G2020111101001",2020-11-11,2020-12-10,"Hong Kong","1108:HK",4.37,"closed",4.72,NA,0.0800915331807779,2020-12-11
+"G2020111102001",2020-11-11,2020-12-10,"Netherlands","FLOW:NA",25.74,"closed",NA,NA,NA,2020-12-11
+"G2020111102002",2020-11-11,2020-12-10,"United Kingdom","RCH:LN",152.22,"closed",NA,NA,NA,2020-12-11
