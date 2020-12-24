@@ -1,0 +1,5 @@
+"trade_id","date_trade","date_exit","country","ticker","price_entry","status","price_exit","price_live","rtn_ccy","last_modification"
+"G2020112401001",2020-11-24,2020-12-23,"Japan","3604:JP",2179,"closed",1990,NA,-0.0867370353373107,2020-12-24
+"G2020112401002",2020-11-24,2020-12-23,"Japan","3891:JP",2369,"closed",2292,NA,-0.0325031658927818,2020-12-24
+"G2020112402001",2020-11-24,2020-12-23,"Netherlands","HEIJM:NA",9.4,"closed",NA,NA,NA,2020-12-24
+"G2020112403001",2020-11-24,2020-12-23,"Canada","BTB.UN:CN",3.72,"closed",NA,NA,NA,2020-12-24
