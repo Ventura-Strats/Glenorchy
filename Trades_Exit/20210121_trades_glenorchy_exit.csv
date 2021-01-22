@@ -1,0 +1,9 @@
+"trade_id","date_trade","date_exit","country","ticker","price_entry","status","price_exit","price_live","rtn_ccy","last_modification"
+"G2020121801001",2020-12-18,2021-01-21,"Australia","AHY:AU",1.33,"closed",NA,NA,NA,2021-01-22
+"G2020121802002",2020-12-18,2021-01-21,"Norway","AZTO:NO",32.2,"closed",NA,NA,NA,2021-01-22
+"G2020121802003",2020-12-18,2021-01-21,"Sweden","ZZ-B:SS",78.2,"closed",80,NA,0.0230179028132993,2021-01-22
+"G2020121802004",2020-12-18,2021-01-21,"United Kingdom","LOOP:LN",71.45,"closed",NA,NA,NA,2021-01-22
+"G2020122103001",2020-12-21,2021-01-21,"United States","CLNE:US",5.985,"closed",10.18,NA,0.700918964076859,2021-01-22
+"G2020122103002",2020-12-21,2021-01-21,"United States","ESI:US",17.87,"closed",NA,NA,NA,2021-01-22
+"G2020122103003",2020-12-21,2021-01-21,"United States","MITK:US",18.2,"closed",NA,NA,NA,2021-01-22
+"G2020122103004",2020-12-21,2021-01-21,"United States","SWI:US",16.07,"closed",15.94,NA,-0.00808960796515246,2021-01-22
