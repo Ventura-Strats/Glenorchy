@@ -1,0 +1,8 @@
+"trade_id","date_trade","date_exit","country","ticker","price_entry","status","price_exit","price_live","rtn_ccy","last_modification"
+"G2021011203002",2021-01-12,2021-02-11,"United States","CEVA:US",56.1,"closed",NA,NA,NA,2021-02-12
+"G2021011203003",2021-01-12,2021-02-11,"United States","CLNE:US",9.555,"closed",NA,NA,NA,2021-02-12
+"G2021011203004",2021-01-12,2021-02-11,"United States","DJCO:US",375.8748,"closed",NA,NA,NA,2021-02-12
+"G2021011203005",2021-01-12,2021-02-11,"United States","ROCK:US",94.235,"closed",NA,NA,NA,2021-02-12
+"G2021011203006",2021-01-12,2021-02-11,"United States","SWI:US",14.9801,"closed",17.190001,NA,0.147522446445618,2021-02-12
+"G2021011302001",2021-01-13,2021-02-11,"Netherlands","HEIJM:NA",11.44,"closed",NA,NA,NA,2021-02-12
+"G2021011303001",2021-01-13,2021-02-11,"Canada","BLX:CN",55.56,"closed",NA,NA,NA,2021-02-12
