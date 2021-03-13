@@ -1,0 +1,11 @@
+"trade_id","date_trade","date_exit","country","ticker","price_entry","status","price_exit","price_live","rtn_ccy","last_modification"
+"G2021020801001",2021-02-08,2021-03-12,"Hong Kong","297:HK",1.02,"closed",NA,NA,NA,2021-03-13
+"G2021020801002",2021-02-08,2021-03-12,"Hong Kong","400:HK",2.42,"closed",NA,NA,NA,2021-03-13
+"G2021020901004",2021-02-09,2021-03-12,"Japan","1419:JP",1857,"closed",NA,NA,NA,2021-03-13
+"G2021020901005",2021-02-09,2021-03-12,"Japan","8613:JP",608,"closed",NA,NA,NA,2021-03-13
+"G2021020901006",2021-02-09,2021-03-12,"Singapore","5DD:SP",3.53,"closed",NA,NA,NA,2021-03-13
+"G2021021003001",2021-02-10,2021-03-12,"United States","ACIA:US",114.84,"closed",NA,NA,NA,2021-03-13
+"G2021021003002",2021-02-10,2021-03-12,"United States","HEAR:US",31.895,"closed",NA,NA,NA,2021-03-13
+"G2021021003003",2021-02-10,2021-03-12,"United States","HIMX:US",15.315,"closed",NA,NA,NA,2021-03-13
+"G2021021003004",2021-02-10,2021-03-12,"United States","TDC:US",45.97,"closed",NA,NA,NA,2021-03-13
+"G2021021003005",2021-02-10,2021-03-12,"United States","VHC:US",7.91,"closed",NA,NA,NA,2021-03-13
